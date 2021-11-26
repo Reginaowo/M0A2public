@@ -1,0 +1,5 @@
+Diferencia entre repositorio público y privado
+
+La diferencia que hay entre un repositorio público y priado es que en el repositorio público, cualquier persona que tenga acceso al link, puede visualizar todos los archivos incluidos dentro de dicho repositorio así como descargarlo o clonarlo desde una terminal.
+
+Mientras que el repositorio privado límita el acceso a todos los usuarios, se requiere de un permiso por parte de los creadores para que así el usuario logre visualizar el contenido.
